@@ -8,6 +8,7 @@
 
 ![](./img/git-login.png)
 * В правом в верхнем углу экрана нажать на эконку вашего профиля и выбрать (*Your repositories*).
+![](./img/usegit.png)
 * Далее нажать на иконку *New* 
 
 ![](./img/new-reposit.png)
