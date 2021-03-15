@@ -15,6 +15,9 @@ License: [MIT](./license.md)
   - [Setup GitHub Desktop.](./hubinstal.md)
 * Команнды Git.
   - [Comannd.](./git-comand.md) 
+* Создание репозитория.
+ - [Creatе Repository.](./git-repositories.md)
+
 
 
 
