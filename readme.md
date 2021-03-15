@@ -16,7 +16,7 @@ License: [MIT](./license.md)
 * Команнды Git.
   - [Comannd.](./git-comand.md) 
 * Создание репозитория.
- - [Creatе Repository.](./git-repositories.md)
+  - [Creatе Repository.](./git-repositories.md)
 
 
 
